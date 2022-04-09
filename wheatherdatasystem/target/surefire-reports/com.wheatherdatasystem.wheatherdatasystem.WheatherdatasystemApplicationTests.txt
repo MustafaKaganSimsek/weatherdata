@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.wheatherdatasystem.wheatherdatasystem.WheatherdatasystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.904 s <<< FAILURE! - in com.wheatherdatasystem.wheatherdatasystem.WheatherdatasystemApplicationTests
+com.wheatherdatasystem.wheatherdatasystem.WheatherdatasystemApplicationTests  Time elapsed: 0.902 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
