@@ -1,0 +1,5 @@
+com\weather\weather\model\Weather.class
+com\weather\weather\WeatherApplication.class
+com\weather\weather\dao\WeatherRepository.class
+com\weather\weather\model\GeoCode.class
+com\weather\weather\WeatherScheculed.class

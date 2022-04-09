@@ -1,0 +1,42 @@
+[
+    {
+        "cityCode": "HNX",
+        "cityName":"Chicago"
+    },
+    {
+        "cityCode": "SJT",
+        "cityName":"Texax"
+    },
+    {
+        "cityCode": "OKX",
+        "cityName":"New York"
+    },
+    {
+        "cityCode": "TBW",
+        "cityName":"Florida"
+    },
+    {
+        "cityCode": "ILX",
+        "cityName":"Illinois"
+    },
+    {
+        "cityCode": "CTP",
+        "cityName":"Pennsylvania"
+    },
+    {
+        "cityCode": "ILN",
+        "cityName":"Ohio"
+    },
+    {
+        "cityCode": "APX",
+        "cityName":"Michigan"
+    },
+    {
+        "cityCode": "GSP",
+        "cityName":"North Carolina"
+    },
+    {
+        "cityCode": "PHI",
+        "cityName":"New Jersey"
+    }
+]
